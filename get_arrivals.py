@@ -15,3 +15,7 @@ lines = ['1', '59', '68', '91', '188', '243', 'N1', 'N68', 'N91', 'N171', 'SL6',
 station_ids = ['490000112M', '490003191F', '490019703Z']
 
 combinations = [(line, station_id) for line in lines for station_id in station_ids]
+
+filename = 'arrival.jsonl'
+file_path = os.path.join('data', filename)
+os.makedirs(os.path.dirname(file_path), exist_ok=True)

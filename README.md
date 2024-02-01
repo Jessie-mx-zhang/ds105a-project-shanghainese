@@ -41,3 +41,5 @@ After two weeks of data collection, we reached the limits of our free API credit
 [The graphics above could be found in NB04_Interactive_maps.ipynb]
 
 Our team’s spirit was truly supportive; every member had a defined role, reflected in the meticulous notes and issues tracked in our GitHub repository.
+
+Xinyi diligently combed through YouTube, amassing knowledge to refine our visualizations, while Vivian orchestrated our discussions, ensuring we had a physical space for collaboration. Despite the setback of inadvertently committing our API key, we chose not to dwell on blame but to focus on solutions, reinforcing our bond as a team.

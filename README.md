@@ -33,3 +33,5 @@ The process of us setting GitHub Actions for your project is in brief like this:
 
 • MOST importantly secrets such as API keys should be stored in GitHub Secrets, not in your workflow file, to keep them secure.
 
+After two weeks of data collection, we reached the limits of our free API credits. We consolidated our findings, analysing the data through various visualizations including box plots, line graphs and heat maps.
+

@@ -38,3 +38,6 @@ After two weeks of data collection, we reached the limits of our free API credit
 ![Boxplot1 Image](/boxplot1.png)
 ![Boxplot2 Image](/boxplot2.png)
 ![CO2 Image](/CO2_heatmap.png)
+[The graphics above could be found in NB04_Interactive_maps.ipynb]
+
+Our team’s spirit was truly supportive; every member had a defined role, reflected in the meticulous notes and issues tracked in our GitHub repository.

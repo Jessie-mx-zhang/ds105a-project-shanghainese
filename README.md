@@ -5,4 +5,6 @@ After navigating to the TFLâ€™s official website, we faced our first challenge â
 
 With the key in hand, we wrote Python scripts targeting the IDs of three local bus stations. Yet, this task was not as straightforward as we had hoped; inconsistencies in ID labelling between different API endpoints led us to encounter a series of bad requests.
 
+Overcoming these initial obstacles, we successfully gathered data. However, the complexity of its structure presented a new challenge. Despite our efforts to crack the JSON formatting, the data was still peplexing, and to our dismay, we found it imcomplete. Routes were missing, and the data lacked the comprehensiveness needed for a proper analysis.
+
 

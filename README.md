@@ -10,5 +10,6 @@ Overcoming these initial obstacles, we successfully gathered data. However, the 
 Determined to press on, we contemplated a change of course. We decided to utilize the Google Maps API, which, while more straightforward and structured, came with its own limitations – the foremost being cost.
 
 As we prepared our presentation, the complexity of our task became fully apparent. We spent nights troubleshooting empty data returns, only to learn from the TFL forum that some buses do not operate at night – a simple explanation that eluded us during our nocturnal analyses.
+![Reply Image](/reply.png)
 
 

@@ -15,3 +15,5 @@ As we prepared our presentation, the complexity of our task became fully apparen
 Our work on GitHub was another learning curve, filled with its own set of challenges. A hasty push sugguested by ChatGPT led to our API key being exposed, a mistake that taught us a valuable lesson in careful repository management.
 
 Shifting our focus, we began examining alternative modes of transport from 14 LSE-affiliated dormitories to campus. We crafted a visual representation of this data on a map, with varying colour depths to signify the duration of each travel mode. Integrating this data into our visual tools proved demanding, as we navigated the intricacies of Google’s API and the JSONL file format.
+![Map Image](/mapp.png)
+

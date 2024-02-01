@@ -49,3 +49,5 @@ Jessie, even while away in Berlin, contributed via mobile, epitomizing our remot
 We owe a debt of gratitude to Mr. Mustafa Can Ozkan, whose drop-in sessions were pivotal, especially for the interactive maps that became a cornerstone of our analysis. Our Professor Dr. Jon Cardoso-Silva consistently provided fresh perspectives that broke through our creative blockades, offering solutions that were both incisive and practical.
 
 Our teacher Mr. Alexander Soldatkin was a beacon of guidance, always reminding us of our timeline and pushing us ahead of schedule. His brilliance shone brightest when he patiently fixed a critical bug on Christmas Eve, a testament to his unwavering dedication.
+
+This is the essence of our story — a tale of unity, perseverance, and the collective pursuit of knowledge. It’s about embracing challenges, learning from our oversights, and above all, celebrating the spirit of collaboration that defines our LSE experience.

@@ -20,7 +20,7 @@ combinations = [(line, station_id) for line in lines for station_id in station_i
 
 
 filename = 'timetable.jsonl'
-file_path = os.path.join('data', filename)
+file_path = os.path('data', filename)
 
 
 with open(file_path, 'a') as file:
@@ -35,12 +35,12 @@ with open(file_path, 'a') as file:
                     if record: 
                         json_record = json.dumps(record)
                         file.write(json_record + '\n')
-                    else:
-                        continue
+                
             else:
                 if data:
                     json_record = json.dumps(data)
-                    file.write(json_record + '\n')
+                    file.write(json_record)
+                    file.write('\n')
         else:
             print(f"Failed to fetch data for line {line}: HTTP Status Code {response.status_code}")
 

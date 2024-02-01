@@ -45,3 +45,5 @@ Our team’s spirit was truly supportive; every member had a defined role, refle
 Xinyi diligently combed through YouTube, amassing knowledge to refine our visualizations, while Vivian orchestrated our discussions, ensuring we had a physical space for collaboration. Despite the setback of inadvertently committing our API key, we chose not to dwell on blame but to focus on solutions, reinforcing our bond as a team.
 
 Jessie, even while away in Berlin, contributed via mobile, epitomizing our remote teamwork. Vivian and Xinyi, too, lent their expertise from afar, tweaking our presentation and manuscripts.
+
+We owe a debt of gratitude to Mr. Mustafa Can Ozkan, whose drop-in sessions were pivotal, especially for the interactive maps that became a cornerstone of our analysis. Our Professor Dr. Jon Cardoso-Silva consistently provided fresh perspectives that broke through our creative blockades, offering solutions that were both incisive and practical.

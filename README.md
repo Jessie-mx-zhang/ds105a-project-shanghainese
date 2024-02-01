@@ -17,3 +17,19 @@ Our work on GitHub was another learning curve, filled with its own set of challe
 Shifting our focus, we began examining alternative modes of transport from 14 LSE-affiliated dormitories to campus. We crafted a visual representation of this data on a map, with varying colour depths to signify the duration of each travel mode. Integrating this data into our visual tools proved demanding, as we navigated the intricacies of Google’s API and the JSONL file format.
 ![Map Image](/mapp.png)
 
+The process of us setting GitHub Actions for your project is in brief like this:
+
+• Create a Workflow File: In our GitHub repo, we first created a .github/workflows directory and within this directory, we created a YAML file to define our workflow.
+
+• Define Workflow Events: At the start of our YAML file, we specify when the action should run. For us it’s very one hour (this could also be on a push, a pull request, or a merge).
+
+• Define Jobs: We Set up the jobs that the action will execute, deploying our application.
+
+• Define Steps: Within each job, we defined the steps to be taken, such as checking out our repository or executing the script.
+
+• Include Actions: Use pre-built actions or create custom ones as needed for our steps.
+
+• Commit and Push: Once our workflow file is configured, we committed and pushed it to our repository. GitHub will then recognize the workflow file and run the action based on the events we specified.
+
+• MOST importantly secrets such as API keys should be stored in GitHub Secrets, not in your workflow file, to keep them secure.
+

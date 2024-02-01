@@ -35,7 +35,10 @@ with open(file_path, 'a') as file:
                     if record: 
                         json_record = json.dumps(record)
                         file.write(json_record + '\n')
-                
+                        print('a')
+                    else:
+                        print('b')
+                        continue
             else:
                 if data:
                     json_record = json.dumps(data)

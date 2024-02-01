@@ -12,4 +12,6 @@ Determined to press on, we contemplated a change of course. We decided to utiliz
 As we prepared our presentation, the complexity of our task became fully apparent. We spent nights troubleshooting empty data returns, only to learn from the TFL forum that some buses do not operate at night – a simple explanation that eluded us during our nocturnal analyses.
 ![Reply Image](/reply.png)
 
+Our work on GitHub was another learning curve, filled with its own set of challenges. A hasty push sugguested by ChatGPT led to our API key being exposed, a mistake that taught us a valuable lesson in careful repository management.
+
 

@@ -35,4 +35,6 @@ The process of us setting GitHub Actions for your project is in brief like this:
 
 After two weeks of data collection, we reached the limits of our free API credits. We consolidated our findings, analysing the data through various visualizations including box plots, line graphs and heat maps.
 ![Linegraph Image](/linegraph.png)
+![Boxplot1 Image](/1boxplot.png)
+
 

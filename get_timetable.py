@@ -35,15 +35,12 @@ with open(file_path, 'a') as file:
                     if record: 
                         json_record = json.dumps(record)
                         file.write(json_record + '\n')
-                        print('a')
                     else:
-                        print('b')
                         continue
             else:
                 if data:
                     json_record = json.dumps(data)
-                    file.write(json_record)
-                    file.write('\n')
+                    file.write(json_record, '\n')
         else:
             print(f"Failed to fetch data for line {line}: HTTP Status Code {response.status_code}")
 

@@ -9,7 +9,7 @@ if not api_key:
     raise ValueError("No API_KEY found.")
 
 
-base_url = 'https://api.tfl.gov.uk/Line/{line}/Timetable/{station_i'
+base_url = 'https://api.tfl.gov.uk/Line/{line}/Timetable/{station_id}'
 params = {'app_key': api_key,
           'direction': 'inbound'}
 lines = ['1', '59', '68', '91', '188', '243', 'N1', 'N68', 'N91', 'N171', 'SL6',

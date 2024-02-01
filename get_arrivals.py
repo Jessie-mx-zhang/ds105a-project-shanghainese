@@ -19,3 +19,25 @@ combinations = [(line, station_id) for line in lines for station_id in station_i
 filename = 'arrival.jsonl'
 file_path = os.path.join('data', filename)
 os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+with open(file_path, 'a') as file:
+
+    urls = [base_url.format(lines=line, station_id=station_id) for line, station_id in combinations]
+    responses = [requests.get(url, params=params) for url in urls]
+
+    for response in responses:
+        if response.status_code == 200:
+            data = response.json()        
+            if isinstance(data, list):
+                for record in data:
+                    if record: 
+                        json_record = json.dumps(record)
+                        file.write(json_record + '\n')
+                    else:
+                        continue
+            else:
+                json_record = json.dumps(data)
+        else:
+            print(f"Failed to fetch data for line {lines}: HTTP Status Code {response.status_code}")
+
+print("Data has been saved to arrival.jsonl")

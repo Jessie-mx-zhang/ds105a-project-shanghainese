@@ -40,7 +40,7 @@ with open(file_path, 'a') as file:
             else:
                 if data:
                     json_record = json.dumps(data)
-                    file.write(json_record, '\n')
+                    file.write(json_record + '\n')
         else:
             print(f"Failed to fetch data for line {line}: HTTP Status Code {response.status_code}")
 

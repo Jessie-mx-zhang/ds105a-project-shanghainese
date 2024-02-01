@@ -37,4 +37,4 @@ After two weeks of data collection, we reached the limits of our free API credit
 ![Linegraph Image](/linegraph.png)
 ![Boxplot1 Image](/boxplot1.png)
 ![Boxplot2 Image](/boxplot2.png)
-
+![CO2 Image](/CO2_heatmap.png)

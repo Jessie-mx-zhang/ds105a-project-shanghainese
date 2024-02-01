@@ -16,7 +16,7 @@ lines = ['1', '59', '68', '91', '188', '243', 'N1', 'N68', 'N91', 'N171', 'SL6',
          '9', '23','87', '172', 'N9', 'N44', 'N87', 'N155']
 station_ids = ['490000112M', '490003191F', '490019703Z']
 
-combinations = [(line, station_id) for line in line for station_id in station_id]
+combinations = [(line, station_id) for line in lines for station_id in station_ids]
 
 
 filename = 'timetable.jsonl'

@@ -40,6 +40,8 @@ After two weeks of data collection, we reached the limits of our free API credit
 
 ![Boxplot2 Image](pngs/boxplot2.png)
 
+![Heatmap1 Image](pngs/heatmap1.png)
+
 We also did something about CO2 emssion，while public transit may have longer journey times, leading to higher overall emissions, the efficiency per passenger makes it a more sustainable choice overall.
 
 ![CO2 Image](pngs/barchat.png)

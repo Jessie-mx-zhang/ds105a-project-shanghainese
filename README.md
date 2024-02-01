@@ -3,4 +3,6 @@ The project began with an intriguing proposition posted by our professor on Slac
 
 After navigating to the TFL’s official website, we faced our first challenge – acquiring the API key. The process was not straightforward, sparking discussions in forums and among peers. Eventually, we discovered that subscription options varied, influencing key accessibility.
 
+With the key in hand, we wrote Python scripts targeting the IDs of three local bus stations. Yet, this task was not as straightforward as we had hoped; inconsistencies in ID labelling between different API endpoints led us to encounter a series of bad requests.
+
 

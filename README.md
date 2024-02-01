@@ -7,4 +7,6 @@ With the key in hand, we wrote Python scripts targeting the IDs of three local b
 
 Overcoming these initial obstacles, we successfully gathered data. However, the complexity of its structure presented a new challenge. Despite our efforts to crack the JSON formatting, the data was still perplexing, and to our dismay, we found it incomplete. Routes were missing, and the data lacked the comprehensiveness needed for a proper analysis.
 
+Determined to press on, we contemplated a change of course. We decided to utilize the Google Maps API, which, while more straightforward and structured, came with its own limitations – the foremost being cost.
+
 

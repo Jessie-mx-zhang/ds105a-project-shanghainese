@@ -20,11 +20,11 @@
 
 ## Team member
 
-Jessie Zhang 💫 (jessie.mx.zhang) BSc in Politics and Data Science
+Jessie Zhang 💫 (Jessie.mx.zhang) BSc in Politics and Data Science
 
 Vivian Ge 🍎 (viviange1028) BSc in Sociology
 
-Shakira Cai 🥬 (Shakruii) BSc in Politics and Data Science
+Shakira Cai 🥬 (shakruii) BSc in Politics and Data Science
 
 
 ## Our Story

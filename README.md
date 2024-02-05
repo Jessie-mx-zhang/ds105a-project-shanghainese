@@ -1,4 +1,24 @@
 # 🗺️ LSE Commute Explorer 📍
+
+❓ Ever caught yourself wondering if you'll be punctually perched in your lecture seat or sadly sprinting after the bus? 
+
+🌠 Our project harnesses the power of Google Maps API to demystify the travel times from LSE residences to campus 🏫 
+
+⏩ With a tap and a click, we unveil the question for every urban scholar: 💡 "What's the swiftest stride or ride to LSE?" 
+
+📢 We've meticulously mapped out 1️⃣4️⃣ LSE residences, comparing a caravan of commute options: 
+
+\ walking🚶, driving 🚗 , bicycling 🚴 , bus 🚌 , and subway 🚇 /
+
+📊 Our digital dossier diligently draws from a dynamic dataset, updated hourly for 3️⃣ weeks through a crafty YML workflow 
+
+🤿 Dive into our data-driven domain and decide: Will it be the leisurely amble or the subway scramble? 
+
+🎓 The insights are ours but the choice is yours✨ Let our data guide your day and make punctuality part of your daily routine ⏰ 
+
+🫂 Embark on the journey. Embrace the data. Elevate your LSE experience 📚
+
+
 The project began with an intriguing proposition posted by our professor on Slack. Using data from the TFL API, we were to investigate the timeliness of buses around the London School of Economics, focusing on the stops that serve our community most closely.
 
 After navigating to the TFL’s official website, we faced our first challenge – acquiring the API key. The process was not straightforward, sparking discussions in forums and among peers. Eventually, we discovered that subscription options varied, influencing key accessibility.

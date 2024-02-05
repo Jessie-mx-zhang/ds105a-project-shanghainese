@@ -39,11 +39,13 @@ Overcoming these initial obstacles, we successfully gathered data. However, the 
 Determined to press on, we contemplated a change of course. We decided to utilize the Google Maps API, which, while more straightforward and structured, came with its own limitations – the foremost being cost.
 
 As we prepared our presentation, the complexity of our task became fully apparent. We spent nights troubleshooting empty data returns, only to learn from the TFL forum that some buses do not operate at night – a simple explanation that eluded us during our nocturnal analyses.
+
 ![Reply Image](/pngs/reply.png)
 
 Our work on GitHub was another learning curve, filled with its own set of challenges. A hasty push sugguested by ChatGPT led to our API key being exposed, a mistake that taught us a valuable lesson in careful repository management.
 
 Shifting our focus, we began examining alternative modes of transport from 14 LSE-affiliated dormitories to campus. We crafted a visual representation of this data on a map, with varying colour depths to signify the duration of each travel mode. Integrating this data into our visual tools proved demanding, as we navigated the intricacies of Google’s API and the JSONL file format.
+
 ![Map Image](pngs/coloured_map.png)
 
 The process of us setting GitHub Actions for your project is in brief like this:
@@ -63,6 +65,7 @@ The process of us setting GitHub Actions for your project is in brief like this:
 • MOST importantly secrets such as API keys should be stored in GitHub Secrets, not in your workflow file, to keep them secure.
 
 After two weeks of data collection, we reached the limits of our free API credits. We consolidated our findings, analysing the data through various visualizations including box plots, line graphs and heat maps.
+
 ![Linegraph Image](pngs/linegraph.png)
 
 ![Boxplot1 Image](pngs/boxplot1.png)
